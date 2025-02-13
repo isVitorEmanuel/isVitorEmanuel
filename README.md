@@ -5,4 +5,4 @@ Sou estudante do Bacharelado em Tecnologia da Informação pela UFRN, com ênfas
 ### Tecnologias que utilizo
 
 
-[](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
